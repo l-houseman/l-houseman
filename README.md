@@ -1,4 +1,6 @@
-## Hi there 👋
+### About me
+🔭 I am a Sociology PhD Student at USask working within the intersection of demography and disability studies.
+
 
 <!--
 **l-houseman/l-houseman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
