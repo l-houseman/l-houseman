@@ -1,5 +1,5 @@
 ### About me
-🔭 I am a Sociology PhD Student at USask working within the intersection of demography and disability studies.
+🎓 I am a Sociology PhD Student at USask working within the intersection of demography and disability studies.
 
 
 <!--
