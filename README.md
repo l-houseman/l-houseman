@@ -7,7 +7,7 @@
 
 - ***SSHRC CGS-D Scholar***
 
-<img width="403.3" height="48.6" alt="image" src="https://github.com/user-attachments/assets/a6d19efe-83bc-480c-9d1f-e6085b44f426" /> 
+ <img width="403.3" height="48.6" alt="image" src="https://github.com/user-attachments/assets/a6d19efe-83bc-480c-9d1f-e6085b44f426" /> 
 
 - ***2025-26 CAnD3 Fellow***
 
